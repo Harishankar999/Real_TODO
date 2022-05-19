@@ -1,0 +1,48 @@
+.todo{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+    width: 80%;
+    text-align: center;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    margin: auto; 
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+.completebtn{
+   
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    color: white;
+}
+.inputtag{
+    height: 30px;
+    width: 300px;
+    margin-top: 40px;
+}
+.delete{
+    background-color: red;
+    border: none;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+}
+.addbtn{
+    background-color: rgb(0, 255, 13);
+    border: none;
+    height: 30px;
+    width: 70px;
+    border-radius: 5px;
+}
+.showbtn{
+    margin-top: 20px;
+    height: 30px;
+    border: none;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
